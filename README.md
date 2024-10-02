@@ -1,1 +1,1 @@
-A frontend-only clone of the Myntra website created using **HTML** and **CSS**. This project is built to practice and demonstrate web design skills by replicating a popular e-commerce platform's user interface.
+A frontend-only clone of the Myntra website created using **HTML** and **CSS** only. This project is built to practice and demonstrate web design skills by replicating a popular e-commerce platform's user interface.
